@@ -37,9 +37,12 @@
 	];
 </script>
 
-<nav class="relative grid grid-cols-6 justify-center items-center font-gilroy py-2 px-3">
+<nav class="relative grid grid-cols-6 justify-center items-center font-gilroy py-2 px-3 z-50">
 	<div class=" col-span-1 justify-start flex">
-		<a href="/" class="font-callina text-4xl font-bold text-[#7a9077] hover:cursor-pointer">
+		<a
+			href="/"
+			class="font-callina text-4xl font-bold text-[#7a9077] hover:text-[#ca7e8d] hover:cursor-pointer"
+		>
 			Botanica
 		</a>
 	</div>
@@ -87,7 +90,7 @@
 		<div class="flex justify-end items-center space-x-3">
 			<!-- phone svg icon -->
 			<svg
-				class="w-8 hover:fill-[#ca7e8d]"
+				class="w-8 hover:fill-[#ca7e8d] cursor-pointer"
 				fill="#7a9077"
 				viewBox="0 0 32 32"
 				version="1.1"
@@ -108,7 +111,7 @@
 
 			<!-- add to basket svg icon -->
 			<svg
-				class="w-8 hover:fill-[#ca7e8d]"
+				class="w-8 hover:fill-[#ca7e8d] cursor-pointer"
 				fill="#7A9077"
 				viewBox="0 0 32 32"
 				version="1.1"

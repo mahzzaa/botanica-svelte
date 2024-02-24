@@ -1,3 +1,9 @@
+<script>
+	import HeaderLanding from '../lib/components/Header-landing.svelte';
+</script>
+
 <!-- YOU CAN DELETE EVERYTHING IN THIS PAGE -->
 
-<div class="container h-full mx-auto flex justify-center items-center bg-white"></div>
+<div class=" h-full w-full mx-auto flex justify-center items-center bg-white">
+	<HeaderLanding />
+</div>
