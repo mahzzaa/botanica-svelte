@@ -4,7 +4,7 @@
 
 <div
 	class="flex flex-col justify-center items-center
-   w-full 2xl:h-full xl:h-full lg:h-full md:h-full h-screen space-y-32 my-20 mb-64"
+   w-full 2xl:h-full xl:h-full lg:h-full md:h-full h-screen space-y-32 my-24"
 >
 	<p class="moniqa text-[#ca7e8d] text-6xl">Unique bouquets for you</p>
 	<div
